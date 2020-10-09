@@ -1,36 +1,30 @@
 # A Safety Vest with integrated environmental sensors
 
-![1](https://github.com/maroprjs/SafetyVest/raw/master/extras/img/SafetyVest1.png)
-
-  
+![1](https://github.com/maroprjs/SafetyVest/blob/main/extras/img/SafetyVest1.png)
 
 ## Simple UDP/IP messaging based on Wio-LTE modem
 
-![1](https://github.com/maroprjs/SafetyVest/raw/master/extras/img/Network1.png)
+![1](https://github.com/maroprjs/SafetyVest/blob/main/extras/img/Network1.png)
 
 ## Minimum Shopping List
 
-| Image                                                        | Product Name                                                 |
-| :----------------------------------------------------------- | :----------------------------------------------------------- |
-| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/WioLte1.png" width="100"> | [Wio LTE](http://wiki.seeedstudio.com/Wio_LTE_Cat.1/)        |
-| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/Airquality1.png" width="100"> | [Airquality Sensor](http://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/) |
-| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/BME2802.png" width="100"> | [Humidity Sensor](https://www.adafruit.com/product/2652)     |
-| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/DRV88331.png" width="100"> | Motor Driver, e.g. DRV8833                                   |
-| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/Gyro1.png" width="100"> | [Accelerometer/Gyroscope](http://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/) |
-| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/LED1.png" width="100"> | 5V LED stripe                                                |
-| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/Noise1.png" width="100"> | [Electret Microphone Amplifier - MAX9814](https://www.adafruit.com/product/1713) |
-| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/Panic1.png" width="100"> | Panic Alarm                                                  |
-| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/StepUp5V1.png" width="100"> | [Step Up Converter](https://www.pololu.com/product/2121)     |
-| resistors                                                    | resistors (10k & 470)                                        |
-| SIM card                                                     |                                                              |
-
-
+| Image                                                                                                                                                                           | Product Name                                                                                   |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------- |
+| <img title="" src="https://github.com/maroprjs/SafetyVest/blob/main/extras/img/WioLte1.png" alt="" width="100">                                                                 | [Wio LTE](http://wiki.seeedstudio.com/Wio_LTE_Cat.1/)                                          |
+| <img title="" src="https://github.com/maroprjs/SafetyVest/blob/main/extras/imghttps://github.com/maroprjs/SafetyVest/raw/master/extras/img/Airquality1.png" alt="" width="100"> | [Airquality Sensor](http://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/)                |
+| <img title="" src="https://github.com/maroprjs/SafetyVest/blob/main/extras/img/BME2802.png" alt="" width="100">                                                                 | [Humidity Sensor](https://www.adafruit.com/product/2652)                                       |
+| <img title="" src="https://github.com/maroprjs/SafetyVest/blob/main/extras/img/DRV88331.png" alt="" width="100">                                                                | Motor Driver, e.g. DRV8833                                                                     |
+| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/Gyro1.png" width="100">                                                                                  | [Accelerometer/Gyroscope](http://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/) |
+| <img src="https://github.com/maroprjs/SafetyVest/raw/master/extras/img/LED1.png" width="100">                                                                                   | 5V LED stripe                                                                                  |
+| <img title="" src="https://github.com/maroprjs/SafetyVest/blob/main/extras/img/Noise1.png" alt="" width="100">                                                                  | [Electret Microphone Amplifier - MAX9814](https://www.adafruit.com/product/1713)               |
+| <img title="" src="https://github.com/maroprjs/SafetyVest/blob/main/extras/img/Panic1.png" alt="" width="100">                                                                  | Panic Alarm                                                                                    |
+| <img title="" src="https://github.com/maroprjs/SafetyVest/blob/main/extras/img/StepUp5V1.png" alt="" width="100">                                                               | [Step Up Converter](https://www.pololu.com/product/2121)                                       |
+| resistors                                                                                                                                                                       | resistors (10k & 470)                                                                          |
+| SIM card                                                                                                                                                                        |                                                                                                |
 
 ## Schematics
 
-![1](https://github.com/maroprjs/SafetyVest/raw/master/extras/img/Schematic1.png)
-
-
+![1](https://github.com/maroprjs/SafetyVest/blob/main/extras/img/Schematic1.png)
 
 ## How to build with Arduino IDE
 
@@ -48,13 +42,9 @@
 
 However, the software was made with [Eclipse Sloeber](https://eclipse.baeyens.it/). 
 
-
-
 ## Server
 
 - TODO
-
-  
 
 ## Some References and Appreciation
 
@@ -75,7 +65,5 @@ However, the software was made with [Eclipse Sloeber](https://eclipse.baeyens.it
 [Pololu](https://www.pololu.com/)
 
 [Seeedstudio](https://www.seeedstudio.com/)
-
-
 
 [^1]: application/x-www-form-urlencoded
