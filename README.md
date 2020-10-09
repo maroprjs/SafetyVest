@@ -1,6 +1,6 @@
 # A Safety Vest with integrated environmental sensors
 
-![1](https://github.com/maroprjs/SafetyVest/blob/main/extras/img/SafetyVest1.png)
+![1](https://github.com/maroprjs/SafetyVest/blob/main/extras/img/SafetyVest1.PNG)
 
 ## Simple UDP/IP messaging based on Wio-LTE modem
 
@@ -24,7 +24,7 @@
 
 ## Schematics
 
-![1](https://github.com/maroprjs/SafetyVest/blob/main/extras/img/Schematic1.png)
+![1](https://github.com/maroprjs/SafetyVest/blob/main/extras/img/Schematic1.PNG)
 
 ## How to build with Arduino IDE
 
